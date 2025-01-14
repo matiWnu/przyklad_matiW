@@ -59,7 +59,7 @@ body{overflow: hidden;}
 }
 
 /*TODO: responsywność*/
-#google_map{width:80vw;height:45vh;}
+#google_map{width:80vw;height:40vh;}
 @media screen and (max-width: 600px){
     .menu{font-size:8px;}
     .text_do_galerii{font-size:10px;}
